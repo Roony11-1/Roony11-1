@@ -29,5 +29,5 @@ Currently finishing my Software Engineering degree at Duoc UC after working on l
 ### Links
 
 * **Maven Central:** `io.github.roony11-1`
-* **LinkedIn:** [linkedin.com/in/tu-usuario-linkedin](https://www.linkedin.com/in/tu-usuario-linkedin)
+* **LinkedIn:** https://www.linkedin.com/in/ricardo-s%C3%A1nchez-617a8b37a/
 * **Email:** ricardo.sanchez.sand@gmail.com
