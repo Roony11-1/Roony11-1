@@ -1,166 +1,33 @@
-Hey, I'm Ricardo Sánchez 👋
+### Hi, I'm Ricardo Sánchez
 
-Backend Developer · Java 21 · Spring Boot · Open Source
+Backend Developer based in Santiago, Chile. I build REST APIs, event-driven services, and reusable Java libraries published on Maven Central (`io.github.roony11-1`).
 
-I'm a software developer focused on backend engineering, reusable libraries, and clean software architecture. I enjoy building developer tools, designing maintainable systems, and turning complex problems into simple, well-structured solutions.
+Currently finishing my Software Engineering degree at Duoc UC after working on legacy data migration, custom SQL query builders, and desktop tooling in C# and MySQL.
 
-🔭 Currently working on: Roony Libraries
+---
 
-🌱 Currently exploring: Domain-Driven Design, distributed systems, and software architecture.
+### What I've Built
 
-📦 Open source: Building reusable Java libraries for the Spring ecosystem.
+* **[Roony Libraries](https://github.com/Roony11-1)** — Modular open-source ecosystem for Java 21 and Spring Boot, published on **Maven Central**:
+  * `roony-error`: Framework-agnostic domain exception modeling with Spring Boot auto-configuration and RFC 9457 `ProblemDetail` responses (including Spring Security 401/403 support).
+  * `roony-query-params` & `roony-specification`: Dynamic HTTP query filtering integrated with Spring Data JPA.
+  * `roony-bom`: Centralized Maven Bill of Materials for dependency alignment across modules.
+* **[TAG OK](https://github.com/Roony11-1)** — Toll-tracking and route-planning platform built with an event-driven microservices architecture using **Spring WebFlux, Apache Kafka, PostgreSQL, PostGIS, and pgRouting**.
+* **[Pedidos360](https://github.com/Roony11-1)** — Distributed order and catalog system using asynchronous messaging with **RabbitMQ**, containerized with **Docker**, and provisioned on **AWS** via **Terraform** and **GitHub Actions**.
 
-🎓 Education: Software Engineering.
+---
 
-📍 Santiago, Chile 🇨🇱
+### Core Stack
 
-🛠️ Tech Stack
+* **Backend:** Java 21, Spring Boot, Spring WebFlux, Spring Data JPA, Spring Security, C#, .NET
+* **Databases:** PostgreSQL (PostGIS / pgRouting), MySQL, Oracle (PL/SQL), MongoDB
+* **Messaging & Cloud:** Apache Kafka, RabbitMQ, Docker, Terraform, AWS, GitHub Actions
+* **Frontend (Working Knowledge):** React, Angular, TypeScript
 
-Backend Development
+---
 
-<p align="left">
-  <a href="https://www.oracle.com/java/">
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" width="48" height="48"/>
-  </a>
-  <a href="https://spring.io/projects/spring-boot">
-    <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="48" height="48"/>
-  </a>
-  <a href="https://quarkus.io/">
-    <img src="https://skillicons.dev/icons?i=quarkus" alt="Quarkus" width="48" height="48"/>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-    <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="48" height="48"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/">
-    <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="48" height="48"/>
-  </a>
-  <a href="https://hibernate.org/">
-    <img src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate" width="48" height="48"/>
-  </a>
-</p>
+### Links
 
-Frontend Development
-
-<p align="left">
-  <a href="https://react.dev/">
-    <img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48"/>
-  </a>
-  <a href="https://angular.dev/">
-    <img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="48" height="48"/>
-  </a>
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="48" height="48"/>
-  </a>
-  <a href="https://tailwindcss.com/">
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="48" height="48"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="48" height="48"/>
-  </a>
-</p>
-
-Databases
-
-<p align="left">
-  <a href="https://www.postgresql.org/">
-    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48"/>
-  </a>
-  <a href="https://www.mysql.com/">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48"/>
-  </a>
-  <a href="https://www.mongodb.com/">
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48"/>    <a>  
-
- </p>
-
-Infrastructure & Tools
-
-<p align="left">
-  <a href="https://www.docker.com/">
-    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48"/>
-  </a>
-  <a href="https://github.com/features/actions">
-    <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="48" height="48"/>
-  </a>
-  <a href="https://developer.hashicorp.com/terraform">
-    <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="48" height="48"/>
-  </a>
-  <a href="https://maven.apache.org/">
-    <img src="https://skillicons.dev/icons?i=maven" alt="Maven" width="48" height="48"/>
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48"/>
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="48" height="48"/>
-  </a>
-</p>
-
-🚀 Featured Projects
-
-📚 Roony Libraries
-
-A collection of reusable Java libraries designed to simplify backend development and reduce boilerplate in Spring applications.
-
-roony-error — Typed application errors and consistent exception handling.
-
-roony-specification — Composable specifications for dynamic filtering.
-
-roony-jpa — Reusable persistence and query utilities.
-
-Explore my GitHub repositories.
-
-🛒 Pedidos360
-
-A distributed application exploring microservices, REST APIs, asynchronous messaging, and modern frontend integration.
-
-Technologies: Java · Spring Boot · Angular · RabbitMQ
-
-🧠 Engineering Principles
-
-Clean, maintainable, and modular code.
-
-Rich domain models and explicit business rules.
-
-Separation of concerns and dependency injection.
-
-Reusable abstractions without unnecessary complexity.
-
-Testing, continuous learning, and practical problem-solving.
-
-📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Roony11-1&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
-    alt="GitHub Stats"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roony11-1&layout=compact&hide_border=true&theme=github_dark"
-    alt="Most Used Languages"
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Roony11-1&theme=github-dark-blue&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
-</p>
-
-🤝 Let's Connect!
-
-<p align="left">
-  <a href="https://github.com/Roony11-1">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
-Feel free to explore my projects, share feedback, or collaborate on something interesting.
-
-Building useful software, one commit at a time. 🚀
+* **Maven Central:** `io.github.roony11-1`
+* **LinkedIn:** [linkedin.com/in/tu-usuario-linkedin](https://www.linkedin.com/in/tu-usuario-linkedin)
+* **Email:** ricardo.sanchez.sand@gmail.com
